@@ -1,1 +1,3 @@
 # DogNSuds
+
+Welcome to Dog N’ Suds. Dog N’ Suds is dining establishment, and this is our application for ordering your food. We have garlic crusted pizzas and our signature doggies. All meals come with a drink. You can estimate the cost of your food with the P + D button function. You can also calculate the total of the items entered. This will display what you’re meal(s) cost. When you type your order (separating them with commas), into the corresponding boxes for which type of pizza or doggie you would like it will submit your order and provide you a confirmation of what was ordered. This will pop up as an additional box, once your order has been confirmed. There is also the exit button, so you can completely escape from this delicious program.
