@@ -128,7 +128,7 @@ def total():
 
 # hot dog separately
 
-b1 = tk.Button(root, text="Calculate P + D", command=calc, font=("Arial", 15))
+b1 = tk.Button(root, text="Calculate P + D.", command=calc, font=("Arial", 15))
 
 b1.place(x=100, y=380)
 
@@ -142,7 +142,7 @@ b2.place(x=100, y=420)
 
 # click this button to exit from the program
 
-b3 = tk.Button(root, text="exit", command=root.destroy, font=("Arial", 15))
+b3 = tk.Button(root, text="Exit.", command=root.destroy, font=("Arial", 15))
 
 b3.place(x=100, y=460)
 
